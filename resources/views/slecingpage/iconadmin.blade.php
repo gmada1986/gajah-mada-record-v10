@@ -1,0 +1,1 @@
+<link rel="icon" href="{{ asset('asset/logo-brand/gajahmadalogo.png') }}" type="image/x-icon">
